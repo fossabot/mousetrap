@@ -1,4 +1,6 @@
 # Mousetrap
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmousetrap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmousetrap?ref=badge_shield)
+
 
 Mousetrap is a simple library for handling keyboard shortcuts in Javascript.
 
@@ -98,3 +100,7 @@ Unit tests run via <a href="http://mochajs.org/" target="_blank">mocha</a>.
 ## Documentation
 
 Full documentation can be found at https://craig.is/killing/mice
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmousetrap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmousetrap?ref=badge_large)
